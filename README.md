@@ -1,3 +1,3 @@
 # Lectures
-www.alextarchini.github.io/Lectures
+https://alextarchini.github.io/Lectures/
 
